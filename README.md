@@ -1,6 +1,7 @@
 # KELOMPOK 9
 
-SANDAG, ANUGRAH
-KALANGI, FARRELL GRACELLO
-CHELSEA
-PRAYTON
+
+- Anaitan, Praylton
+- Sandag, Anugrah 
+- Wando, Chelsia 
+- Kalangi, Farrell Gracello
